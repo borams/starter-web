@@ -20,4 +20,4 @@ Please fork this repository and then issue pull requests for review.
 
 ### Copyright
 
-2015 FirstName LastName
+2015 Git training, All rights reserved.
